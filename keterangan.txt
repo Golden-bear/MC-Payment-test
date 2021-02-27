@@ -1,0 +1,6 @@
+NOMOR 1:
+- Dikerjakan menggunakan bahasa pemrograman python
+
+NOMOR 2:
+- Dikerjakan menggunakan framework laravel 8 termasuk api nya
+- Database terletak di folder database dengan nama keuangans.sql
